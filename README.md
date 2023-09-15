@@ -1,4 +1,6 @@
 # Sistema de Gerenciamento de Vendas💻
+## Link do vídeo
+https://drive.google.com/file/d/1HrNRGcx6quI3KQYe0-Lvm_tLnsMEAYDY/view?usp=sharing
 ## Tecnologias Utilizadas 
 
 - **Spring Boot:** O framework Spring Boot é usado para construir a aplicação Java de forma rápida e simplificada.
